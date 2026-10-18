@@ -50,3 +50,13 @@ backend/uploads/
 *.pt
 __pycache__/
 *.pyc
+.env
+.env.local
+.env.production
+node_modules/
+.next/
+.pytest_cache/
+__pycache__/
+*.pyc
+rescuevision.db
+yolov8s.pt
