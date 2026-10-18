@@ -346,7 +346,6 @@ The following are potential future extensions, not current features.
 
 **Project:** Live-Track
 
-**Repository:** [Hack-On-Tracks/Logic_Shift-](https://github.com/Hack-On-Tracks/Logic_Shift-)
 
 
 ## License
